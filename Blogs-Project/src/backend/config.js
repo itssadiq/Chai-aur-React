@@ -1,1 +1,0 @@
-// Write posts and acrticles related backend queries here.
